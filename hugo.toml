@@ -1,5 +1,16 @@
+title = 'Dave Cutting'
 baseURL = 'https://davecutting.com/'
 languageCode = 'en-us'
-title = 'Dave Cutting'
 theme = 'ananke'
 
+[params]
+  author = "Dave Cutting"
+  favicon = ""
+  site_logo = ""
+  description = "Embedded electrical design wizard"
+  background_color_class = "bg-dark-gray"
+  recent_posts_number = 3
+
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/steezeman"
