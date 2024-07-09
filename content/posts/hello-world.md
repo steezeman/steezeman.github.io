@@ -1,8 +1,8 @@
 +++
 title = 'Hello World!'
-date = 2024-07-08T10:26:46-06:00
+date = 2000-01-01T00:00:00-00:00
 featured_image = 'images/cover.jpeg'
 draft = false
 +++
 
-Hello world! This is my first post.
+Hello world! This is my first post. I wrote it on the top of a mountain using starlink.

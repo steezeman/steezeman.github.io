@@ -14,3 +14,7 @@ theme = 'ananke'
 [[params.ananke_socials]]
 name = "github"
 url = "https://github.com/steezeman"
+
+[[params.ananke_socials]]
+name = "linkedin"
+url = "https://linkedin.com/in/steezeman"
