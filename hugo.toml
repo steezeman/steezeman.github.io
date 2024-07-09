@@ -18,3 +18,4 @@ url = "https://github.com/steezeman"
 [[params.ananke_socials]]
 name = "linkedin"
 url = "https://linkedin.com/in/steezeman"
+share = false
